@@ -552,11 +552,11 @@ sāciet tūlīt."</string>
     <string name="train_load_medium">Vidējs</string>
     <string name="train_load_near_seven_days">Pēdējās 7 dienas</string>
     <string name="train_load_suggess_status_no_record">"Mēs novērtēsim jūsu treniņu slodzi no vingrinājumiem, kas reģistrēti pēdējo 7 dienu laikā"</string>
-    <string name="train_load_suggess_status_less">Zems</string>
-    <string name="train_load_suggess_status_good">Optimāls</string>
-    <string name="train_load_suggess_status_recovery">Augsts</string>
+    <string name="train_load_suggess_status_less">Zema</string>
+    <string name="train_load_suggess_status_good">Optimāla</string>
+    <string name="train_load_suggess_status_recovery">Augsta</string>
     <string name="train_load_suggess_status_over">Pārmērīga slodze</string>
-    <string name="real_time_perpormance_level_very_good">Labs</string>
+    <string name="real_time_perpormance_level_very_good">Ļoti labs</string>
     <string name="real_time_perpormance_level_good">Labs</string>
     <string name="real_time_perpormance_level_average">Normāls</string>
     <string name="real_time_perpormance_level_fatigued">Noguris</string>
@@ -857,8 +857,8 @@ lai sasniegtu pilnīgu atjaunošanos."</string>
     <string name="running_stop_dialog_positive_text">Apturēt</string>
     <string name="running_stop_dialog_negative_text">Atcelt</string>
     <string name="sport_history_total_distance_desc">Attālums</string>
-    <string name="sport_history_header_total_count_desc">Piegājienu skaits</string>
-    <string name="sport_history_header_calorie_desc">Kopējais kaloriju daudzums</string>
+    <string name="sport_history_header_total_count_desc">Piegājienu sk.</string>
+    <string name="sport_history_header_calorie_desc">Kal. daudz.</string>
     <string name="history_heart_rate_desc">Pulss:</string>
     <string name="history_heart_rate_unit">Sit/Min</string>
     <string name="history_info_cost_time_desc">Laiks</string>
@@ -943,7 +943,7 @@ lai sasniegtu pilnīgu atjaunošanos."</string>
     <string name="remind_heart_rate_value_before">Tagad</string>
     <string name="remind_heart_rate_value_after">Sit/Min</string>
     <string name="remind_heart_rate_suggestion">Palēniniet pakāpeniski, lai pielāgotu</string>
-    <string name="remind_pace_too_low">Temps ir pārāk zems</string>
+    <string name="remind_pace_too_low">Temps ir pārāk </string>
     <string name="remind_pace_too_fast">Temps ir pārāk ātrs</string>
     <string name="remind_pace_current">Pašreizējā</string>
     <string name="remind_pace_target">Mērķis</string>
