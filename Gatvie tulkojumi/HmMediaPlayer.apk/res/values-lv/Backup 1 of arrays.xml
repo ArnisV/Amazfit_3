@@ -1,22 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="spring_depend">
-        <item>com.huami.watch.pin/com.huami.watch.pin.PinWidgetView</item>
+        <item>watch.huami.com.mediaplayer/watch.huami.com.mediaplayer.widget.MusicLauncerView</item>
     </string-array>
-    <string-array name="item_reset_time_str">
-        <item>Fixed 30 minutes</item>
-        <item>Fixed 1 hour</item>
-        <item>Fixed 2 hours</item>
-        <item>Fixed 3 hours</item>
-        <item>Fixed 4 hours</item>
-    </string-array>
-    <integer-array name="item_reset_time_min">
-        <item>30</item>
-        <item>60</item>
-        <item>120</item>
-        <item>180</item>
-        <item>240</item>
-    </integer-array>
     <string-array name="sport_data_item_array">
         <item></item>
         <item>Laiks</item>
@@ -86,7 +72,7 @@
         <item>Kopējais laiks</item>
         <item>Atlikušais laiks</item>
         <item>Attālums</item>
-        <item>Atlicis</item>
-        <item>Atpūties</item>
+        <item>Šoreiz ir pārpalikums atpūtai</item>
+        <item>Atpūta šoreiz pabeigta</item>
     </string-array>
 </resources>

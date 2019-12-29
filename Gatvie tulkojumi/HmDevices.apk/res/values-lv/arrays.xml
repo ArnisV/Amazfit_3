@@ -69,7 +69,7 @@
         <item>Kopējais laiks</item>
         <item>Atlikušais laiks</item>
         <item>Attālums</item>
-        <item>Šoreiz ir pārpalikums atpūtai</item>
-        <item>Atpūta šoreiz pabeigta</item>
+        <item>Atlicis</item>
+        <item>Atpūties</item>
     </string-array>
 </resources>
