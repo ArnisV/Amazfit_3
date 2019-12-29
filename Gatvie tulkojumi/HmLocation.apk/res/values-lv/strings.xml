@@ -29,7 +29,7 @@
     <string name="exteed_max_num">"Nevar pievienot vairāk kā 500 atrašanās vietas"</string>
     <string name="gps_save">Saglabāt</string>
     <string name="altitude_unit">m</string>
-    <string name="average_text">Vidējais</string>
+    <string name="average_text">Vid.</string>
     <string name="running">Skriešana</string>
     <string name="waking">Staigāšana</string>
     <string name="indoor_running">Skrejcliņš</string>

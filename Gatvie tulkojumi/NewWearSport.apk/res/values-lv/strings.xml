@@ -23,17 +23,17 @@
     <string name="crossing_vertical_velocity_unit">ft/h</string>
     <string name="crossing_history_detail_total_time">Kopējais laiks</string>
     <string name="crossing_history_detail_move_time">Aktīvais laiks</string>
-    <string name="crossing_history_detail_ave_move_pace">Vidējais temps</string>
+    <string name="crossing_history_detail_ave_move_pace">Vid. temps</string>
     <string name="crossing_history_detail_ave_move_pace_unit">/km</string>
     <string name="crossing_history_detail_best_pace">Labākais temps</string>
-    <string name="crossing_history_detail_ave_move_speed">Vidējais ātrums</string>
-    <string name="crossing_history_detail_max_speed">Maksimālais ātrums</string>
+    <string name="crossing_history_detail_ave_move_speed">Vid. ātrums</string>
+    <string name="crossing_history_detail_max_speed">Maks. ātrums</string>
     <string name="crossing_history_detail_climb_up">Kāpuma pieaugums</string>
     <string name="crossing_history_detail_climb_down">Kāpuma kritums</string>
     <string name="crossing_history_detail_absolute_altitude">Augstums</string>
     <string name="crossing_history_detail_high_altitude">Lielākais augstums</string>
     <string name="crossing_history_detail_low_altitude">Zemākais augstums</string>
-    <string name="crossing_history_detail_ave_altitude">Vidējais augstums</string>
+    <string name="crossing_history_detail_ave_altitude">Vid. augstums</string>
     <string name="crossing_history_detail_altituede_graph_desc">Augstums (m)</string>
     <string name="crossing_history_detail_individual_km"><font color="#ff09ff00"><b>%1$s</b></font> km vienai cilpai</string>
     <string name="crossing_setting_unit">km</string>
@@ -95,7 +95,7 @@
     <string name="detail_lap_time">Laiks</string>
     <string name="detail_total_distance_desc">Kopējais attālums</string>
     <string name="detail_lap_dis">Attālums</string>
-    <string name="detail_lap_avg_pace">Vidējais temps</string>
+    <string name="detail_lap_avg_pace">Vid. temps</string>
     <string name="detail_curve_graph">Diagramma</string>
     <string name="battery_support_sport">GPS režīmā</string>
     <string name="battery_continue_distance_unit"> km</string>
@@ -225,7 +225,7 @@ sāciet tūlīt."</string>
     <string name="sport_main_pm">PM</string>
     <string name="sport_main_recovery_title">Ieteicamais atjaunošanās laiks</string>
     <string name="sport_history_full_recovery">Atjaunošanās laiks</string>
-    <string name="sport_main_avg_stride">Vidējais solis</string>
+    <string name="sport_main_avg_stride">Vid. solis</string>
     <string name="sport_main_stride">Solis</string>
     <string name="sport_main_total_kcal">Kopējais kaloriju daudzums</string>
     <string name="sport_main_avg_stride_unit">cm/solis</string>
@@ -319,14 +319,14 @@ sāciet tūlīt."</string>
     <string name="pause_sport">Apturēt treniņu</string>
     <string name="continue_sport">Turpināt treniņu</string>
     <string name="stop_sport">Pārtraukt treniņu</string>
-    <string name="swim_avg_stroke_speed">Vidējais SPM</string>
+    <string name="swim_avg_stroke_speed">Vid. SPM</string>
     <string name="swim_max_stroke_speed">Maks. SPM</string>
     <string name="swim_trips">Apļi</string>
     <string name="target_swim_trips">Mērķa apļi</string>
     <string name="swim_total_trips">Kopējais apļu skaits</string>
     <string name="swim_stroke">mājiens</string>
     <string name="swim_stroke_times">Mājieni</string>
-    <string name="swim_avg_dps">Vidējais DPS</string>
+    <string name="swim_avg_dps">Vid. DPS</string>
     <string name="swim_swolf">SWOLF</string>
     <string name="swim_swolf_unit">(%1$s m)</string>
     <string name="swim_swolf_unit_default">(100 m)</string>
@@ -497,7 +497,7 @@ sāciet tūlīt."</string>
     <string name="gps_interval_time">%1$d sek</string>
     <string name="group_rowing_freq">Biežums</string>
     <string name="group_rowing_count">Laiki</string>
-    <string name="group_rowing_avg_hr">Vidējais Pulss</string>
+    <string name="group_rowing_avg_hr">Vid. Pulss</string>
     <string name="group_rowing_calorie">Kaloriju patēriņš</string>
     <string name="group_lap_title">Informācija par grupu</string>
     <string name="battery_life_settings">Akumulatora režīms</string>
@@ -807,10 +807,10 @@ lai sasniegtu pilnīgu atjaunošanos."</string>
     <string name="running_speed_desc">Ātrums</string>
     <string name="running_distance_desc">Attālums</string>
     <string name="running_heartrate_desc">Pulss</string>
-    <string name="running_avg_pace_desc">Vidējais temps</string>
-    <string name="running_avg_speed_desc">Vidējais ātrums</string>
+    <string name="running_avg_pace_desc">Vid. temps</string>
+    <string name="running_avg_speed_desc">Vid. ātrums</string>
     <string name="walking_step_count">Soļi</string>
-    <string name="crossing_vertical_speed">Vertikāls ātrums</string>
+    <string name="crossing_vertical_speed">Vert. ātrums</string>
     <string name="slope">Slīpums</string>
     <string name="sport_widget_title">Sports</string>
     <string name="sport_widget_title_run">Skriešana</string>
@@ -1077,7 +1077,7 @@ veiksmīgi pabeigts"</string>
 To var nokopēt datorā, izmantojot USB."</string>
     <string name="hint_failed">"Nevarēja eksportēt, mēģiniet vēlreiz."</string>
     <string name="app_name">gpx-recorder</string>
-    <string name="average_text">Vidējais</string>
+    <string name="average_text">Vid.</string>
     <string name="running">Skriešana</string>
     <string name="waking">Staigāšana</string>
     <string name="indoor_running">Skrejcliņš</string>

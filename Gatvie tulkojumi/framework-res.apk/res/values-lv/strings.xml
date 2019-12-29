@@ -490,7 +490,7 @@
     <string name="permlab_writeProfile">modify your own contact card</string>
     <string name="permdesc_writeProfile">Allows the app to change or add to personal profile information stored on your device, such as your name and contact information. This means the app can identify you and may send your profile information to others.</string>
     <string name="permlab_bodySensors">ķermeņa sensori (piemēram, sirdsdarbības monitori)</string>
-    <string name="permdesc_bodySensors">Ļauj lietotnei piekļūt to sensoru datiem, kuri pārrauga jūsu fizisko stāvokli (piemēram, sirdsdarbības ātrumu).</string>
+    <string name="permdesc_bodySensors">Ļauj lietotnei piekļūt to sensoru datiem, kuri pārrauga jūsu fizisko stāvokli (piemēram, Pulsa ātrumu).</string>
     <string name="permlab_readSocialStream">read your social stream</string>
     <string name="permdesc_readSocialStream">Allows the app to access and sync social updates from you and your friends. Be careful when sharing information -- this allows the app to read communications between you and your friends on social networks, regardless of confidentiality. Note: this permission may not be enforced on all social networks.</string>
     <string name="permlab_writeSocialStream">write to your social stream</string>

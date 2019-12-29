@@ -15,7 +15,7 @@
     <string name="picker_default_negative_text">Atcelt</string>
     <string name="phone_not_connect">Nav izveidots savienojums ar AmazfitApp, nevar atrast tālruni.</string>
     <string name="ok">Labi</string>
-    <string name="average_text">Vidējais</string>
+    <string name="average_text">Vid.</string>
     <string name="running">Skriešana</string>
     <string name="waking">Staigāšana</string>
     <string name="indoor_running">Skrejcliņš</string>

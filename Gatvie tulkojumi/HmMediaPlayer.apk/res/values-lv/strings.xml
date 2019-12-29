@@ -80,7 +80,7 @@
     <string name="label_play">Atskaņot</string>
     <string name="label_previous">Iepriekšējā</string>
     <string name="label_next">Nākamā</string>
-    <string name="average_text">Vidējais</string>
+    <string name="average_text">Vid.</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="running">Skriešana</string>
     <string name="waking">Staigāšana</string>

@@ -96,9 +96,9 @@
         <item>Vid. temps</item>
         <item>Attālums</item>
         <item>TE</item>
-        <item>Vertikāls ātrums</item>
-        <item>Vidējais ātrums</item>
-        <item>Maksimālais ātrums</item>
+        <item>Vert. ātrums</item>
+        <item>Vid. ātrums</item>
+        <item>Maks. ātrums</item>
         <item>Apļi</item>
         <item>Lejup</item>
         <item>Kopējais lejupceļš</item>
@@ -120,7 +120,7 @@
         <item>Apļa laiks</item>
         <item>Apļa attālums</item>
         <item>Apļa temps</item>
-        <item>Šī apļa ātrums</item>
+        <item>Apļa ātrums</item>
         <item>Pulss šajā aplī</item>
         <item>Atkārtotā apļa ātrums</item>
         <item>Slīpums</item>
