@@ -88,7 +88,7 @@
         <item>Kadence</item>
         <item>Apļi</item>
         <item>DPS</item>
-        <item>Mājienu biežums</item>
+        <item>Vēzienu intervāls</item>
         <item>Vid. SPM</item>
         <item>Temps</item>
         <item>Vid. temps</item>
@@ -101,20 +101,20 @@
         <item>Lejup</item>
         <item>Kopējais lejupceļš</item>
         <item>Nolaišanās</item>
-        <item>Mājieni</item>
+        <item>Vēzieni</item>
         <item>Apļa laiks</item>
         <item>Apļa temps</item>
         <item>Apļa ātrums</item>
         <item>Apļa pulss</item>
         <item>Apļa ritms</item>
         <item>Apļa temps</item>
-        <item>Biežums</item>
+        <item>Intervāls</item>
         <item>Kopējais skaits</item>
-        <item>Vid. biežums</item>
+        <item>Vid. intervāls</item>
         <item>Grupas</item>
         <item>Apļu skaits</item>
         <item>Apļa laiks</item>
-        <item>Apļa biežums</item>
+        <item>Apļa intervāls</item>
         <item>Apļa laiks</item>
         <item>Apļa attālums</item>
         <item>Apļa temps</item>
@@ -125,12 +125,12 @@
         <item>Kalorijas</item>
         <item>Vid. Pulss</item>
         <item>Piegājiena airējumi</item>
-        <item>Vid. airēšanas biežums</item>
+        <item>Vid. airēšanas intervāls</item>
         <item>Airējumi kopā</item>
-        <item>Airēšanas biežums</item>
+        <item>Airēšanas intervāls</item>
         <item>Vilkšana</item>
         <item>Spiešana</item>
-        <item>Vid. Biežums</item>
+        <item>Vid. intervāls</item>
     </string-array>
     <string-array name="sport_train_item">
         <item>Atlikušais attālums</item>
