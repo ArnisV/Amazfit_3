@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Huami IME</string>
+    <string name="connect_phone">Pievienojies Amazfit lietotnei</string>
+    <string name="input_by_phone">Ievadi šo Amazfit lietotnē</string>
+</resources>

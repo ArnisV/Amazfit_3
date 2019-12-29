@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Apvalks</string>
+    <string name="bugreport_finished_title">Notverts kļūdas ziņojums</string>
+    <string name="bugreport_finished_text">Pieskarieties, lai koplietotu kļūdu ziņojumu</string>
+    <string name="bugreport_confirm">"Kļūdu ziņojumi satur datus no dažādiem sistēmas žurnālfailiem, ieskaitot personisko un privāto informāciju. Kļūdu ziņojumus kopīgojiet tikai ar tām lietotnēm un personām, kurām uzticaties."</string>
+    <string name="bugreport_confirm_repeat">Rādīt šo ziņojumu nākamreiz</string>
+</resources>

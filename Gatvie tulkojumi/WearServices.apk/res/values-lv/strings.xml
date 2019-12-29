@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WearSerivce</string>
+    <string name="ble_lost_notification_very_far">Tālrunis pārāk tālu</string>
+    <string name="ble_lost_notification_phone_is_not_near">Jūsu mobilais tālrunis nav tuvumā. Lūdzu, paņemiet to sev līdzi.</string>
+    <string name="ble_lost_notification_prevent_lost_remind">Mobilais atgādinājums par pazaudēšanu</string>
+    <string name="ble_lost_notification_disconnect">Jūsu pulkstenis ir atvienots no jūsu mobilā tālruņa.</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alipay</string>
+    <string name="confirm_unbind">Atsaistīt</string>
+    <string name="unbind_warning">"Pēc atvienošanas jūs nevarēsit izmantot Alipay pulkstenī."</string>
+    <string name="bind_my_watch">Sapārot</string>
+    <string name="user_hint">Tālrunī atveriet Alipay (9.3 vai jaunāku) un dodieties uz Profils> Iestatījumi> Drošība> Viedpulkstenis</string>
+    <string name="bind_im">Pārot</string>
+    <string name="bind_from_qr">Skenēt QR kodu, lai izveidotu pāri</string>
+    <string name="bind_qr_code">QR kods</string>
+    <string name="user_hint_title">Uzmanību</string>
+    <string name="loading">Notiek Alipay ielāde ...</string>
+    <string name="title">Watch Alipay</string>
+    <string name="widget_title">Alipay</string>
+    <string name="tip">Tālrunī atveriet Alipay (9.3 vai jaunāku) un dodieties uz Profils> Iestatījumi> Drošība> Viedpulkstenis</string>
+    <string name="ios_unsupport_tips">"(Alipay operētājsistēmā iOS pašlaik netiek atbalstīts)"</string>
+    <string name="button_start_bind">Pārot</string>
+    <string name="bind_usage">Skenēt QR kodu, lai izveidotu pāri</string>
+    <string name="bar_code_tip">Šis kods tiek izmantots norēķinu laikā</string>
+    <string name="qr_code_tip">Šis kods tiek izmantots norēķinu laikā</string>
+    <string name="bind_success_title">Veiksmīgi sapārots</string>
+    <string name="unbind_tip">Alipay var atvienot pārī pulksteņu lietotnē</string>
+    <string name="button_ok">Labi</string>
+    <string name="unbind_alert_message">"Pēc atvienošanas jūs nevarēsit izmantot Alipay pulkstenī. Vai tomēr atvienot?"</string>
+    <string name="not_available">"Šī funkcija pašlaik nav pieejama."</string>
+    <string name="airplane_mode_tips">Izslēdziet lidmašīnas režīmu, lai pulkstenī izmantotu Alipay.</string>
+    <string name="debug_nickname" />
+    <string name="debug_username" />
+    <string name="debug_paycode_string" />
+    <string name="binding">Alipay sasaistīšana...</string>
+    <string name="confirm_unbind_title">Iestatījumi</string>
+    <string name="confirm_unbind_ok">Atvienots</string>
+    <string name="confirm_unbind_cancel">Atpakaļ</string>
+    <string name="bind_failed_title">Sasaistīšana neizdevās</string>
+    <string name="bind_failed_msg">Lūdzu, nogādājiet pulksteni tuvu mobilajam tālrunim</string>
+    <string name="button_retry">Atkārtot</string>
+    <string name="agreement_alert_message">Lūdzu, atveriet Alipay savā mobilajā telefonā, lai viedtālruņa lapā skatītu pakalpojumu līgumu.</string>
+    <string name="agreement_accept">Piekrītu</string>
+    <string name="alipay_unbinding">Alipay atvienošana ...</string>
+    <string name="alipay_bind_message">Pēc sasaistīšanas ar Alipay varat veikt maksājumu, skenējot pulksteņa maksājuma kodu.</string>
+</resources>

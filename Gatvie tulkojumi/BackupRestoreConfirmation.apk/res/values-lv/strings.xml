@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Pilna dublējumkopija</string>
+    <string name="restore_confirm_title">Pilnīga atjaunošana</string>
+    <string name="backup_confirm_text">"Pieprasīta pilnīga visu datu dublēšana pievienotajā galddatorā. Vai vēlaties atļaut, ka tā notiek?
+        
+Ja pats nepieprasījāt dublēšanu, neļaujiet operācijai turpināties."</string>
+    <string name="allow_backup_button_label">Dublēt manus datus</string>
+    <string name="deny_backup_button_label">Neveiciet dublēšanu</string>
+    <string name="restore_confirm_text">"Ir pieprasīts pilnībā atjaunot visus datus no pievienota galddatora. Vai vēlaties atļaut, ka tas notiek?
+        
+Ja pats nepieprasījāt atjaunošanu, neļaujiet operācijai turpināties. Tas aizstās visus datus, kas pašlaik atrodas ierīcē!"</string>
+    <string name="allow_restore_button_label">Atjaunot manus datus</string>
+    <string name="deny_restore_button_label">Neatjaunot</string>
+    <string name="current_password_text">Lūdzu, ievadiet savu pašreizējo rezerves paroli zemāk:</string>
+    <string name="device_encryption_restore_text">Lūdzu, zemāk ievadiet ierīces šifrēšanas paroli.</string>
+    <string name="device_encryption_backup_text">Lūdzu, zemāk ievadiet ierīces šifrēšanas paroli. Tas tiks izmantots arī rezerves arhīva šifrēšanai.</string>
+    <string name="backup_enc_password_text">Lūdzu, ievadiet paroli, ko izmantot, lai šifrētu visus dublējuma datus. Ja tas tiek atstāts tukšs, tiks izmantota jūsu pašreizējā rezerves parole:</string>
+    <string name="backup_enc_password_optional">Ja vēlaties šifrēt visus dublējuma datus, ievadiet paroli zemāk:</string>
+    <string name="backup_enc_password_required">Tā kā jūsu ierīce ir šifrēta, jums ir jāšifrē dublējums. Lūdzu, ievadiet paroli zemāk:</string>
+    <string name="restore_enc_password_text">Ja atjaunošanas dati ir šifrēti, lūdzu, ievadiet paroli zemāk:</string>
+    <string name="toast_backup_started">Sākas dublēšana...</string>
+    <string name="toast_backup_ended">Dublēšana pabeigta</string>
+    <string name="toast_restore_started">Atjaunot sākot...</string>
+    <string name="toast_restore_ended">Atjaunošana beigusies</string>
+    <string name="toast_timeout">Darbības laiks bija beidzies</string>
+</resources>

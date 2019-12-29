@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">Kalendāra glabātuve</string>
+    <string name="upgrade_msg">Kalendāra datu bāzes jaunināšana.</string>
+    <string name="calendar_default_name">Noklusējums</string>
+    <string name="calendar_info">Informācija par kalendāru</string>
+    <string name="calendar_info_error">Kļūda</string>
+    <string name="calendar_info_no_calendars">Nav kalendāru</string>
+    <string name="calendar_info_events">Notikumi: %1$d</string>
+    <string name="calendar_info_events_dirty">Notikumi: %1$d, nesaglabāti: %2$d</string>
+    <string name="provider_label">Kalendārs</string>
+    <string name="debug_tool_delete_button">Dzēst tūlīt</string>
+    <string name="debug_tool_start_button">Sākt</string>
+    <string name="debug_tool_message">Jūs gatavojaties 1) izveidot kalendāra datu bāzes kopiju SD kartes / USB atmiņā, kuru var lasīt jebkura lietotne, un 2) nosūtīt tai pa e-pastu. Atcerieties izdzēst kopiju, tiklīdz esat to veiksmīgi nokopējis no ierīces vai ja ir saņemts e-pasts.</string>
+    <string name="debug_tool_email_sender_picker">Izvēlieties programmu faila nosūtīšanai</string>
+    <string name="debug_tool_email_subject">Pievienots kalendāra Db</string>
+    <string name="debug_tool_email_body">Pievienotā ir mana kalendāra datu bāze ar visām manām tikšanām un personisko informāciju. Rīkojieties uzmanīgi.</string>
+</resources>

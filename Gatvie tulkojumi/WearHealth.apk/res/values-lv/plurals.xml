@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="weeklysports_frequency">
+        <item quantity="other">" "</item>
+        <item quantity="one">" "</item>
+    </plurals>
+    <plurals name="weeklysports_step">
+        <item quantity="other">soļi</item>
+        <item quantity="one">solis</item>
+    </plurals>
+    <plurals name="floor_unit">
+        <item quantity="other">stāvi</item>
+        <item quantity="one">stāvs</item>
+    </plurals>
+</resources>

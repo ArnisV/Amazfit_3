@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Multimēdija</string>
+    <string name="app_label">Mēdiju glabātuve</string>
+    <string name="upgrade_msg">Mediju datu bāzes uzlabošana.</string>
+    <string name="artist_label">Mākslinieks</string>
+    <string name="ringtone_default">Noklusējuma zvanatonis</string>
+    <string name="notification_sound_default">Noklusējuma paziņojuma skaņa</string>
+    <string name="alarm_sound_default">Noklusējuma modinātāja skaņa</string>
+    <string name="root_images">Bildes</string>
+    <string name="root_videos">Video</string>
+    <string name="root_audio">Audio</string>
+</resources>

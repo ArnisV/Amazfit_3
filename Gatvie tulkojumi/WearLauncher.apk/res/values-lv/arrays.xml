@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_a1602">
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportFive</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportEight</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportSeven</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportThree</item>
+        <item>com.huami.watch.watchface.DigitalSport4WatchFace</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportSix</item>
+        <item>com.huami.watch.watchface.SunriseDigitalWatchFace</item>
+        <item>com.huami.watch.watchface.CubeDigitalWatchFace</item>
+        <item>com.huami.watch.watchface.GreenAnalogWatchFace</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceNine</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceTen</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceEleven</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwelve</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceThirteen</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceFourteen</item>
+        <item>wfzeacf94.wfz</item>
+    </string-array>
+    <string-array name="sort_a1916">
+        <item>com.huami.watch.watchface.OnlyOneInHundredWatchFace</item>
+        <item>com.huami.watch.watchface.TrackWatchFace</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportSeventeen</item>
+        <item>60070.wfz</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportNineteen</item>
+        <item>60072.wfz</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwentyOne</item>
+        <item>60063.wfz</item>
+    </string-array>
+    <string-array name="quick_settings_status_week">
+        <item>Sv</item>
+        <item>P</item>
+        <item>Ot</item>
+        <item>Tr</item>
+        <item>Ce</item>
+        <item>Pk</item>
+        <item>Se</item>
+        <item>Šodien</item>
+    </string-array>
+    <string-array name="quick_settings_status_principleTerm">
+        <item>Major Cold</item>
+        <item>Rain Water</item>
+        <item>Spring Equinox</item>
+        <item>Grain Rain</item>
+        <item>Grain Buds</item>
+        <item>Summer Solstice</item>
+        <item>Major Heat</item>
+        <item>End of Heat</item>
+        <item>Autumn Equinox</item>
+        <item>"Frost's Descent"</item>
+        <item>Minor Snow</item>
+        <item>Winter Solstice</item>
+    </string-array>
+    <string-array name="quick_settings_status_sectionalTerm">
+        <item>Neliels saliņš</item>
+        <item>Sākas pavasaris</item>
+        <item>Mostas kukaiņi</item>
+        <item>Tīrs un skaidrs</item>
+        <item>Sākas vasara</item>
+        <item>Zirnis ausē</item>
+        <item>Nedaudz silts</item>
+        <item>Sākas rudenis</item>
+        <item>Balta rasa</item>
+        <item>Auksta rasa</item>
+        <item>Sākas ziema</item>
+        <item>Stiprs sniegs</item>
+    </string-array>
+    <string-array name="quick_settings_status_chineseTen">
+        <item>The</item>
+        <item>10th of the lunar calenda</item>
+        <item>20th of the lunar calenda</item>
+        <item>30th of the lunar calenda</item>
+    </string-array>
+    <string-array name="quick_settings_status_chineseNumber">
+        <item>Lunar Jan</item>
+        <item>Lunar Feb</item>
+        <item>Lunar Mar</item>
+        <item>Lunar Apr</item>
+        <item>Lunar May</item>
+        <item>Lunar Jun</item>
+        <item>Lunar Jul</item>
+        <item>Lunar Aug</item>
+        <item>Lunar Sept</item>
+        <item>Lunar Oct</item>
+        <item>Lunar Nov</item>
+        <item>Lunar Dec</item>
+    </string-array>
+    <string-array name="weather_card_aqilevel">
+        <item>Excellent</item>
+        <item>Fine</item>
+        <item>Light pollution</item>
+        <item>Moderate pollution</item>
+        <item>Heavy pollution</item>
+        <item>Severe pollution</item>
+        <item></item>
+    </string-array>
+    <string-array name="weather_card_quality">
+        <item>Suitable for sports</item>
+        <item>Not suitable for sports</item>
+        <item></item>
+    </string-array>
+    <string-array name="quick_settings_status_weather">
+        <item>Saulains</item>
+        <item>Mākoņains</item>
+        <item>Apmācies</item>
+        <item>Migla</item>
+        <item>Smog</item>
+        <item>Lietutiņš</item>
+        <item>Pērkons</item>
+        <item>Viegls lietutiņš</item>
+        <item>Lietus</item>
+        <item>Stiprs lietus</item>
+        <item>Lietusgāze</item>
+        <item>Torrential rain</item>
+        <item>Slapjš sniegs</item>
+        <item>Ledus lietus</item>
+        <item>Krusa</item>
+        <item>Neliels sniedziņš</item>
+        <item>Sniegs</item>
+        <item>Stiprs sniegs</item>
+        <item>Sniegputenis</item>
+        <item>Putenis</item>
+        <item>Putekļi</item>
+        <item>Vējš ar smiltīm</item>
+        <item>Smilšu vētra</item>
+        <item>Stipra smilšu vētra</item>
+        <item>Nav informācijas</item>
+    </string-array>
+    <string-array name="sport_data_item_array">
+        <item></item>
+        <item>Laiks</item>
+        <item>Attālums</item>
+        <item>Temps</item>
+        <item>Vid. temps</item>
+        <item>Pulss</item>
+        <item>Kalorijas</item>
+        <item>Augstums</item>
+        <item>Augst. pieaugums</item>
+        <item>Augst. kritums</item>
+        <item>Ātrums</item>
+        <item>Vid. ātrums</item>
+        <item>Kadence</item>
+        <item>Attāluma pieaugums</item>
+        <item>Soļi</item>
+        <item>Kadence</item>
+        <item>Apļi</item>
+        <item>DPS</item>
+        <item>Mājienu biežums</item>
+        <item>Vid. SPM</item>
+        <item>Temps</item>
+        <item>Vid. temps</item>
+        <item>Attālums</item>
+        <item>TE</item>
+        <item>Vertikāls ātrums</item>
+        <item>Vidējais ātrums</item>
+        <item>Maksimālais ātrums</item>
+        <item>Āpļi</item>
+        <item>Lejup</item>
+        <item>Kopējais lejupceļš</item>
+        <item>Nolaišanās</item>
+        <item>Mājieni</item>
+        <item>Apļa laiks</item>
+        <item>Apļa temps</item>
+        <item>Apļa ātrums</item>
+        <item>Apļa pulss</item>
+        <item>Apļa ritms</item>
+        <item>Apļa temps</item>
+        <item>Biežums</item>
+        <item>Kopējais skaits</item>
+        <item>Vid. biežums</item>
+        <item>Grupas</item>
+        <item>Apļu skaits</item>
+        <item>Apļa laiks</item>
+        <item>Apļa biežums</item>
+        <item>Apļa laiks</item>
+        <item>Apļa attālums</item>
+        <item>Apļa temps</item>
+        <item>Šī apļa ātrums</item>
+        <item>Pulss šajā aplī</item>
+        <item>Atkārtotā apļa ātrums</item>
+        <item>Slīpums</item>
+        <item>Kalorijas</item>
+        <item>Vid. Pulss</item>
+        <item>Piegājiena airējumi</item>
+        <item>Vid. airēšanas biežums</item>
+        <item>Airējumi kopā</item>
+        <item>Airēšanas biežums</item>
+        <item>Vilkšanas uzdevums</item>
+        <item>Atspiešanās</item>
+        <item>Vid. Biežums</item>
+    </string-array>
+    <string-array name="sport_train_item">
+        <item>Atlikušais attālums</item>
+        <item>Kopējais attālums</item>
+        <item>Kopējais laiks</item>
+        <item>Atlikušais laiks</item>
+        <item>Attālums</item>
+        <item>Surplus rest this time</item>
+        <item>Rest finished this time</item>
+    </string-array>
+</resources>

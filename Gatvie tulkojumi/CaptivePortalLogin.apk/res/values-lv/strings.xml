@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="action_use_network">Izmantot šo tīklu kā</string>
+    <string name="action_do_not_use_network">Šo tīklu neizmantot</string>
+    <string name="action_bar_label">Pieslēgties tīklam</string>
+</resources>

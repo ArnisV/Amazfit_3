@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Uzlādes UI</string>
+    <string name="action_settings">Iestatījumi</string>
+    <string name="unit">%</string>
+    <string name="am">%1$s AM</string>
+    <string name="pm">%1$s PM</string>
+    <string name="txt_am">AM</string>
+    <string name="txt_pm">PM</string>
+</resources>
