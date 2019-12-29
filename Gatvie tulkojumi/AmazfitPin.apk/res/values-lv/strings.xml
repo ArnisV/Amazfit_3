@@ -19,7 +19,7 @@
     <string name="average_text">Vid.</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="running">Skriešana</string>
-    <string name="waking">Staigāšana</string>
+    <string name="waking">Iešana</string>
     <string name="indoor_running">Skrejcliņš</string>
     <string name="outdoor_riding">Riteņbraukšana</string>
     <string name="indoor_riding">Velotrenažieris</string>
@@ -46,8 +46,8 @@
     <string name="stroke_speed">Vēzienu intervāls</string>
     <string name="pace">Temps</string>
     <string name="mileage">Attālums</string>
-    <string name="rope_skip_freq">intervāls</string>
-    <string name="row_stroke_freq">intervāls</string>
+    <string name="rope_skip_freq">Intervāls</string>
+    <string name="row_stroke_freq">Intervāls</string>
     <string name="sport_has_paused">Pauze</string>
     <string name="sport_paused_time">Pauzes laiks</string>
     <string name="sport_distance">Attālums</string>
@@ -121,7 +121,7 @@
     <string name="oritation_north">Z</string>
     <string name="rope_skip_group_time">Laiks</string>
     <string name="rope_skip_group_count">Skaitītājs</string>
-    <string name="rope_skip_group_freq">intervāls</string>
+    <string name="rope_skip_group_freq">Intervāls</string>
     <string name="rope_skip_reset_tips">Ir atpūties</string>
     <string name="rope_skip_tips">Groupa %1$s</string>
     <string name="rope_skip_tips1">The</string>
@@ -132,7 +132,7 @@
     <string name="press_long_power_key_wake_up">Nospiediet fizisko pogu, lai izietu no</string>
     <string name="sport_auto_pause_end">Sesija beidzās, vai saglabāt datus?</string>
     <string name="sport_slpt_stop_next_group">Nākamais</string>
-    <string name="group_rowing_freq">intervāls</string>
+    <string name="group_rowing_freq">Intervāls</string>
     <string name="group_rowing_count">Reizes</string>
     <string name="picker_default_positive_text">Labi</string>
     <string name="picker_default_nagetive_text">Izslēgts</string>

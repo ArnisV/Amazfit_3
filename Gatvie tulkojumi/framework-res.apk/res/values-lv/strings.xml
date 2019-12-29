@@ -50,9 +50,9 @@
     <string name="durationDayHours">%1$d day %2$d hrs</string>
     <string name="durationDayHour">%1$d day %2$d hr</string>
     <string name="durationHours">%1$d hrs</string>
-    <string name="durationHourMinutes">%1$d hr %2$d mins</string>
-    <string name="durationHourMinute">%1$d hr %2$d min</string>
-    <string name="durationMinutes">%1$d mins</string>
+    <string name="durationHourMinutes">%1$d st %2$d min</string>
+    <string name="durationHourMinute">%1$d st %2$d min</string>
+    <string name="durationMinutes">%1$d min</string>
     <string name="durationMinute">%1$d min</string>
     <string name="durationMinuteSeconds">%1$d min %2$d secs</string>
     <string name="durationMinuteSecond">%1$d min %2$d sec</string>
