@@ -1187,7 +1187,7 @@ To var nokopēt datorā, izmantojot USB."</string>
     <string name="picker_default_nagetive_text">Izslēgts</string>
     <string name="title_settings">Iestatījumi</string>
     <string name="sport_music_settings">Mūzika</string>
-    <string name="widget_currentstep_title">Dati</string>
+    <string name="widget_currentstep_title">Pārskats</string>
     <string name="widget_currentstep_activities">"Šodienas aktivitātes"</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">m</string>

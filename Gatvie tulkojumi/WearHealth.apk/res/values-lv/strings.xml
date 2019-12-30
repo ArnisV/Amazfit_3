@@ -211,7 +211,7 @@
     <string name="weekly_sports_notification_content">Ir sagatavots pagājušās nedēļas darbības kopsavilkums.</string>
     <string name="weekly_sports_notification_action">Pieskarieties, lai skatītu</string>
     <string name="weeklysports_date_format">dd.MM.yyyy</string>
-    <string name="widget_currentstep_title">Dati</string>
+    <string name="widget_currentstep_title">Pārskats</string>
     <string name="widget_currentstep_activities">"Aktivitāte"</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">m</string>
@@ -230,7 +230,7 @@
     <string name="currentstep_detail_sleep">Miega režīms</string>
     <string name="currentstep_detail_sleep_deep">Dziļais miegs</string>
     <string name="currentstep_detail_heart">Pulss</string>
-    <string name="currentstep_detail_title">Datu informācija</string>
+    <string name="currentstep_detail_title">Pārskats</string>
     <string name="currentstep_detail_activity_chart">Darbības</string>
     <string name="currentstep_detail_activity_chart_unit">(Mērvienība: stunda)</string>
     <string name="currentstep_detail_activity_chart_unit_min">(Mērvienība: minūte)</string>
