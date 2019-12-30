@@ -9,7 +9,7 @@
     <string name="msg_detail">Informācija</string>
     <string name="remain_min_tip">Slēpts pēc xx minūtēm</string>
     <string name="item_reset_time_min">Piespraust uz %1$d min</string>
-    <string name="item_reset_time_hour">Piesprust uz %1$d hr</string>
+    <string name="item_reset_time_hour">Piesprust uz %1$d st</string>
     <string name="dialog_reset_time_tip">Piespraudiet šo informāciju ekrānā</string>
     <string name="back">Atpakaļ</string>
     <string name="fix_one_hour">Piespraust 1 stundu</string>

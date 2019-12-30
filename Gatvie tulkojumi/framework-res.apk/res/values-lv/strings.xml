@@ -47,9 +47,9 @@
     <string name="petabyteShort">PB</string>
     <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="durationDays">%1$d dienas</string>
-    <string name="durationDayHours">%1$d day %2$d hrs</string>
-    <string name="durationDayHour">%1$d day %2$d hr</string>
-    <string name="durationHours">%1$d hrs</string>
+    <string name="durationDayHours">%1$d diena %2$d st</string>
+    <string name="durationDayHour">%1$d diena %2$d st</string>
+    <string name="durationHours">%1$d st</string>
     <string name="durationHourMinutes">%1$d st %2$d min</string>
     <string name="durationHourMinute">%1$d st %2$d min</string>
     <string name="durationMinutes">%1$d min</string>
