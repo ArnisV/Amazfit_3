@@ -22,9 +22,9 @@
     <string name="music_list_title">Atskaņošnas iestatījumi</string>
     <string name="music_douban_offline">Douban FM bezsaistē</string>
     <string name="music_play_mode">Atskaņošanas režīmi</string>
-    <string name="music_play_source">Mainīt muzikas bibliotēku</string>
+    <string name="music_play_source">Mainīt mūzikas bibliotēku</string>
     <string name="music_source_all">Visas dziesmas</string>
-    <string name="music_title">Muzika</string>
+    <string name="music_title">Mūzika</string>
     <string name="music_init_not_done">Inicialazācijas klūda ...</string>
     <string name="music_no_resource">Nav nevienas dziesmas</string>
     <string name="music_source_douban">Watercress FM</string>
@@ -44,7 +44,7 @@
     <string name="browse_genres">Žanri</string>
     <string name="browse_genre_subtitle">Dziesmas pēc žanriem</string>
     <string name="browse_musics_by_genre_subtitle">%1$s dziesmas</string>
-    <string name="random_queue_title">Jaukta muzika</string>
+    <string name="random_queue_title">Jaukta mūzika</string>
     <string name="error_no_connection">Nevar pievienoties serverim. Pārbaudi interneta savienojumu.</string>
     <string name="error_loading_media">Ielādes kļūda</string>
     <string name="casting_to_device">Spēlējam uz %1$s</string>
@@ -61,7 +61,7 @@
     <string name="open_content_drawer">Atver galveno izvēlni</string>
     <string name="close_content_drawer">Aizver galveno izvēlni</string>
     <string name="placeholder_message">This is a placeholder for your application code.</string>
-    <string name="drawer_allmusic_title">Visa muzika</string>
+    <string name="drawer_allmusic_title">Visa mūzika</string>
     <string name="drawer_playlists_title">Saraksts</string>
     <string name="now_playing">Tagad atskaņo</string>
     <string name="background_image_str">Albūma vāciņa fona bilde</string>
@@ -187,9 +187,9 @@
     <string name="rope_skip_group_count">Skaitītājs</string>
     <string name="rope_skip_group_freq">Intervāls</string>
     <string name="rope_skip_reset_tips">Ir atpūties</string>
-    <string name="rope_skip_tips">Groupa %1$s</string>
+    <string name="rope_skip_tips">Grupa %1$s</string>
     <string name="rope_skip_tips1">The</string>
-    <string name="rope_skip_tips2">piegājieni ir pabeigti</string>
+    <string name="rope_skip_tips2">Piegājieni ir pabeigti</string>
     <string name="rope_skip_avg_heartrate">Vid. Pulss</string>
     <string name="rope_skip_group_calories">Kalorijas</string>
     <string name="music">Mūzika</string>
