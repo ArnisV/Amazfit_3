@@ -98,8 +98,8 @@
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>Suitable for sports</item>
-        <item>Not suitable for sports</item>
+        <item>Piemērots sportam</item>
+        <item>Sportošanai neder</item>
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
