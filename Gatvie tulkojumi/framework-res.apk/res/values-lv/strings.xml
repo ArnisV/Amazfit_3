@@ -162,7 +162,7 @@
     <string name="ssl_ca_cert_warning">Iespējams, tīklā veiktās darbības tiek pārraudzītas.</string>
     <string name="ssl_ca_cert_noti_by_unknown">Nezināma trešā puse</string>
     <string name="ssl_ca_cert_noti_by_administrator">Tīklu uzrauga jūsu darba profila administrators.</string>
-    <string name="ssl_ca_cert_noti_managed">By %s</string>
+    <string name="ssl_ca_cert_noti_managed">No %s</string>
     <string name="work_profile_deleted">Darba profils izdzēsts</string>
     <string name="work_profile_deleted_description">Darba profils tika dzēsts, jo trūkst administratora lietotnes.</string>
     <string name="work_profile_deleted_details">Trūkst darba profila administratora lietotnes, vai šī lietotne ir bojāta. Šī iemesla dēļ jūsu darba profils un saistītie dati tika dzēsti. Lai saņemtu palīdzību, sazinieties ar administratoru.</string>
@@ -174,7 +174,7 @@
     <string name="turn_on_radio">Ieslēgt bezvadu tīklu</string>
     <string name="turn_off_radio">Izslēgt bezvadu tīklu</string>
     <string name="screen_lock">Bloķēt ekrānu</string>
-    <string name="power_off">Strāvas padeve ir izslēgta.</string>
+    <string name="power_off">Izslēgt.</string>
     <string name="silent_mode_silent">Zvanītājs izslēgts</string>
     <string name="silent_mode_vibrate">Zvanītājs vibrācijas režīmā</string>
     <string name="silent_mode_ring">Zvanītājs ieslēgts</string>
@@ -187,7 +187,7 @@
     <string name="no_recent_tasks">Nav nesen izmantotu lietotņu.</string>
     <string name="global_actions">Tālruņa opcijas</string>
     <string name="global_action_lock">Ekrāna bloķētājs</string>
-    <string name="global_action_power_off">Strāvas padeve ir izslēgta.</string>
+    <string name="global_action_power_off">Izslēgt.</string>
     <string name="global_action_bug_report">Kļūdu ziņojums</string>
     <string name="bugreport_title">Kļūdu ziņojuma sagatavošana</string>
     <string name="bugreport_message">Veicot šo darbību, tiks apkopota informācija par jūsu ierīces pašreizējo stāvokli un nosūtīta e-pasta ziņojuma veidā. Kļūdu ziņojuma pabeigšanai un nosūtīšanai var būt nepieciešams laiks. Lūdzu, esiet pacietīgs.</string>
