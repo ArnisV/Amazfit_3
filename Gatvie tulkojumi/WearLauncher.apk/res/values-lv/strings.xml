@@ -2,6 +2,8 @@
 <resources>
     <string name="new_message_down_fresh">Notīrīt ziņojumu sarakstu</string>
     <string name="sport_title">Vingrojumi</string>
+    <string name="data_check_log">" +------------------------+▂▃▄▅▆▇█▉  Laika apstākļu verifikācijas kļūda!     %1$s▉█▇▆▅▄▃▂+------------------------+"</string>
+    <string name="data_checkfail_json">JSON format error</string>
     <string name="generic_notification_more">Vairāk (%s)</string>
     <string name="notification_unread_num">Nelasīts (%s)</string>
     <string name="notification_click_upgrade">Pieskarieties, lai instalētu</string>
@@ -25,6 +27,8 @@
     <string name="quick_settings_airplane_mode">Lidmašīna: %1$s</string>
     <string name="quick_settings_no_disturb_mode">DND: %1$s</string>
     <string name="quick_settings_auto_light_mode">Apgaismojums: %1$s</string>
+    <string name="quick_settings_rise_up_hand_mode">"Pamodināt ekrānu paceļot roku
+ %1$s"</string>
     <string name="quick_settings_more_settings">Papildu iestatījumi</string>
     <string name="quick_settings_switch_auto">Automātiskais režīms</string>
     <string name="quick_settings_switch_awake">Modināšanas režīms</string>
@@ -62,7 +66,7 @@ mazāk nekā pirms 1 stundas"</string>
     <string name="quick_settings_battery_level_unit">%</string>
     <string name="quick_settings_battery_sporttime_MI_unit">mi</string>
     <string name="splash_hint">Notiek inicializēšana ...</string>
-    <string name="header_incomming_call_name" />
+    <string name="header_incomming_call_name"></string>
     <string name="header_incomming_call_hint">Ienākošais zvans</string>
     <string name="header_incomming_call_mobilephone">Tālrunis</string>
     <string name="header_incomming_call_landlinephone">Fiksētais tālrunis</string>
@@ -100,6 +104,7 @@ mazāk nekā pirms 1 stundas"</string>
     <string name="notification_time_yesterday">Vakar</string>
     <string name="notificaton_empty_message">Nav paziņojumu</string>
     <string name="music">Mūzika</string>
+    <string name="music_control_content">Jūs varat kontrolēt audio atskaņošanu tālrunī. Atskaņošanas kontroli var atrast, pārvelkot ciparnīcu pa labi.</string>
     <string name="music_title">Nezināma dziesma</string>
     <string name="music_author">Nezināms izpildītājs</string>
     <string name="music_stop_status">Pauze</string>
@@ -107,11 +112,38 @@ mazāk nekā pirms 1 stundas"</string>
     <string name="music_bulethooth_disconnect">Tiek pārbaudīts Bluetooth savienojums ...</string>
     <string name="music_peek_content">"Jūs atskaņojat mūziku tālrunī %s. Varat kontrolēt atskaņošanu pulksteņa paziņojumu apgabalā."</string>
     <string name="alone_before_open">Nesen atvērts</string>
+    <string name="notification_title_default">Paziņojums</string>
+    <string name="music">Mūzika</string>
     <string name="launcher_app_name">Palaidējs</string>
     <string name="hm_watch_sports_notification_km">Kilometri</string>
     <string name="hm_watch_sports_notification_sports">Sports</string>
     <string name="hm_generic_notification_iconified_content_line">Sveiki, es esmu Huami fane</string>
     <string name="notification_action_more">Vēl</string>
+    <string name="notification_wechat_red_envelop_title">WeChat sarkanās aploksnes atgādinājums</string>
+    <string name="notification_alipay_red_envelop_title">Alipay sarkanās aploksnes atgādinājums</string>
+    <string name="notification_qq_red_envelop_title">QQ sarkanās aploksnes atgādinājums</string>
+    <string name="notification_red_envelop_content">%sSarkanā aploksne, saņemiet to tālrunī!</string>
+    <string name="notification_red_envelop_default_content">Pieņemiet to ātri!</string>
+    <string name="notification_alipay_default_group">Grupas tērzēšana</string>
+    <string name="notification_ios_envelop_content">Saņemiet QQ sarkano aploksni, atveriet tālruni, lai to pieņemtu!</string>
+    <string name="notification_red_bracket">[%s]</string>
+    <string name="notitification_wechat_red_content_pattern_one">^\\[\\d{1,3}.*?raksts\\]</string>
+    <string name="notitification_wechat_red_content_pattern_two">: \\[WeChat sarkana aploksne\\]</string>
+    <string name="notification_qq_red_title_pattern">\\(\\d{1,3}.*Jaunas ziņas\\)</string>
+    <string name="notification_qq_red_content_pattern">^\\[QQSarkana aploksne\\]</string>
+    <string name="notification_qq_group_content_red_pattern">: \\[QQSarkana aploksne\\]</string>
+    <string name="notification_alipay_default_title">Alipay</string>
+    <string name="notification_alipay_default_pattern">Alipay</string>
+    <string name="notification_alipay_group_red_pattern">Grupas tērzēšanā nosūtīja sarkanu aploksni$</string>
+    <string name="notification_alipay_red_pattern">Nosūtiet sarkanu aploksni$</string>
+    <string name="notification_red_envelop">[Sarkana aploksne]</string>
+    <string name="notitification_ios_wechat_red_content_pattern">: \\[Sarkana aploksne\\]</string>
+    <string name="notification_ios_qq_red_content_pattern">:\\[QQSarkana aploksne\\]</string>
+    <string name="notification_alipay_nunber_pattern">\\[\\d{1,3}.*?raksts\\]</string>
+    <string name="notification_ios_alipay_group_red_pattern">^\\[Grupas ziņojums\\]</string>
+    <string name="notification_fireworks_title">Laimīgu jauno gadu！</string>
+    <string name="notification_fireworks_content">Es novēlu jums visu to labāko！</string>
+    <string name="battery_info_status_percentage">%</string>
     <string name="quick_settings_notification_title">Pārtraukumi</string>
     <string name="quick_settings_notifications_none">Nav</string>
     <string name="watchface_custom_btn_title">Pielāgot</string>
@@ -301,6 +333,5 @@ mazāk nekā pirms 1 stundas"</string>
     <string name="widget_currentstep_sleep_title">Pēdējais miegs</string>
     <string name="widget_currentstep_sleep_no">Nav miega datu</string>
     <string name="widget_currentstep_activity_no">Šodien nav aktivitātes?</string>
-    <item type="string" name="settings_item_high_light_scale_factor">0.71</item>
     <string name="locale_title">Valoda</string>
 </resources>
