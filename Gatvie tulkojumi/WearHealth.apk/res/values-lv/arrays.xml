@@ -8,13 +8,13 @@
         <item>24</item>
     </string-array>
     <string-array name="weekday_names">
-        <item>PIRM</item>
-        <item>OTR</item>
-        <item>TREŠ</item>
-        <item>CET</item>
-        <item>PIEK</item>
-        <item>SEST</item>
-        <item>SVĒT</item>
+        <item>PIRMD</item>
+        <item>OTRD</item>
+        <item>TREŠD</item>
+        <item>CETURTD</item>
+        <item>PIEKTD</item>
+        <item>SESTD</item>
+        <item>SVĒTD</item>
     </string-array>
     <string-array name="subject_typenfreqs">
         <item>Šodien</item>
@@ -23,13 +23,13 @@
         <item>Šonedēļ</item>
     </string-array>
     <string-array name="chart_x_titles">
-        <item>PIRM</item>
-        <item>OTR</item>
-        <item>TREŠ</item>
-        <item>CET</item>
-        <item>PIEK</item>
-        <item>SEST</item>
-        <item>SVĒT</item>
+        <item>PIRMD</item>
+        <item>OTRD</item>
+        <item>TREŠD</item>
+        <item>CETURTD</item>
+        <item>PIEKTD</item>
+        <item>SESTD</item>
+        <item>SVĒTD</item>
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>

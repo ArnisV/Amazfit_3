@@ -2,12 +2,12 @@
 <resources>
     <string-array name="quick_settings_status_week">
         <item>Sv</item>
-        <item>Pr</item>
-        <item>Ot</item>
-        <item>Tr</item>
-        <item>Ct</item>
+        <item>P</item>
+        <item>O</item>
+        <item>T</item>
+        <item>C</item>
         <item>Pk</item>
-        <item>Se</item>
+        <item>S</item>
         <item>Šodien</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
