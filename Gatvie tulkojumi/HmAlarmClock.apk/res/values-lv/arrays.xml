@@ -11,14 +11,16 @@
         <item>Modinātājs iezvanīsies pēc %1$s, %2$s, un %3$s.</item>
     </string-array>
     <string-array name="repeat_description">
-        <item>Vienu reizi</item>
-        <item>Pirmdien</item>
-        <item>Otrdien</item>
-        <item>Trešdien</item>
-        <item>Ceturtdien</item>
-        <item>Piektdien</item>
-        <item>Sestdien</item>
-        <item>Svētdien</item>
+        <item>Katru dienu</item>
+        <item>Darbdienās</item>
+        <item>Brīvdienās</item>
+        <item>P</item>
+        <item>O</item>
+        <item>T</item>
+        <item>C</item>
+        <item>Pk</item>
+        <item>S</item>
+        <item>Sv</item>
     </string-array>
     <string-array name="short_week_days">
         <item></item>
@@ -103,5 +105,7 @@
         <item>Kopējais laiks</item>
         <item>Atlikušais laiks</item>
         <item>Attālums</item>
+        <item>Atlicis</item>
+        <item>Atpūties</item>
     </string-array>
 </resources>
