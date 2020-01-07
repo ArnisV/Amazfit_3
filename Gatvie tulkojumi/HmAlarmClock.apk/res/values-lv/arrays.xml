@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <integer-array name="day_of_weak">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </integer-array>
     <string-array name="alarm_set">
         <item>Modinātājs iezvanīsies pēc mazāk kā minūtes.</item>
         <item>Modinātājs iezvanīsies pēc %1$s.</item>

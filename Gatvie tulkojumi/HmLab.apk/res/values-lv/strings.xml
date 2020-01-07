@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name"></string>
-    <string name="main_title"></string>
+    <string name="app_name">Huami Lab</string>
+    <string name="main_title">Huami Lab</string>
     <string name="agreement_title">PPG tveršana</string>
     <string name="orig_data_collect">Darbības datu vākšana</string>
     <string name="message">"Mēs apkoposim neapstrādātus PPG datus, kad valkājat pulksteni.

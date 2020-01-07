@@ -249,9 +249,12 @@
     <string name="agps_sync_everyday">ik pēc%s</string>
     <string name="agps_sync_am">AM</string>
     <string name="agps_sync_pm">PM</string>
+    <string name="wrist_up_hand">Pagriezt locītavu</string>
     <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
     <string name="product_model_qogir_oversea">Amazfit Verge</string>
     <string name="device_name_qogir_oversea">Amazfit Verge</string>
+    <string name="yongchiyou">Peldēšana Baseinā</string>
+    <string name="gongkaiyou">Peldēšana Dabā</string>
     <string name="product_model_huanghe">Amazfit Sports Watch</string>
     <string name="product_model_huanghe_oversea">Amazfit Pace</string>
     <string name="product_model_everest">Amazfit Sports Watch 2</string>
@@ -262,13 +265,6 @@
     <string name="device_name_huanghe_oversea">Amazfit Verge</string>
     <string name="device_name_everest_oversea">Amazfit Stratos</string>
     <string name="device_name_everest_2s_oversea">Amazfit Stratos +</string>
-    <string name="device_name_default">Amazfit sport watch</string>
-    <string name="device_name_huanghe">Amazfit sport watch</string>
-    <string name="device_name_everest">Amazfit Sports Watch 2</string>
-    <string name="device_name_everest_2s">Amazfit sport watch2S</string>
-    <string name="device_name_everest2">Amazfit Stratos 3</string>
-    <string name="device_name_everest2_plus">Amazfit Stratos 3 +</string>
-    <string name="device_name_everest2_starwar">Star Wars Series</string>
     <string name="zh_cn">简体中文</string>
     <string name="en">English(U.S.)</string>
     <string name="zh_hk">繁體中文(香港)</string>
@@ -287,8 +283,6 @@
     <string name="yueye">Taku skriešana</string>
     <string name="shineipao">Skrējceliņš</string>
     <string name="huwaiqi">Riteņbraukšana</string>
-    <string name="yongchiyou">Baseina peldēšana</string>
-    <string name="gongkaiyou">Atklāts ūdens</string>
     <string name="tuoyuanji">Orbitreks</string>
     <string name="dengshan">Kāpt</string>
     <string name="tierensan">Triatlons</string>
@@ -334,6 +328,9 @@
     <string name="build_desc">[DEBUG] Veidot aprakstu</string>
     <string name="legal">Lūdzu, pārbaudiet</string>
     <string name="legal2">Amazfit App</string>
+    <string name="device_name_everest2">Amazfit Stratos 3</string>
+    <string name="device_name_everest2_plus">Amazfit Stratos 3 +</string>
+    <string name="device_name_everest2_starwar">Star Wars Series</string>
     <string name="lab">Lab</string>
     <string name="opened">laboratorija</string>
     <string name="closed">Ieslēgts</string>
@@ -356,7 +353,6 @@
     <string name="auto_nodisturb_end_time_string">Izslēgšanas laiks</string>
     <string name="auto_screen_wristup_end_time_string">līdz</string>
     <string name="time_to">līdz</string>
-    <string name="wrist_up_hand">Plaukstas locītavas pacelšana</string>
     <string name="wrist_up_hand_with_bl">Ieslēdziet fona apgaismojumu</string>
     <string name="auto_wifi_trans_on_string">Ieslēgts</string>
     <string name="auto_wifi_trans_off_string">Izslēgts</string>

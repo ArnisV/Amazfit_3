@@ -70,7 +70,7 @@
         <item>Nav datu</item>
     </string-array>
     <string-array name="sport_data_item_array">
-        <item></item>
+        <item>--</item>
         <item>Laiks</item>
         <item>Attālums</item>
         <item>Temps</item>
