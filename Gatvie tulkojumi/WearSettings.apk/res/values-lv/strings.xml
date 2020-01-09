@@ -301,13 +301,13 @@
     <string name="lock_screen_auto">Regulāri izslēdziet vājā apgaismojuma režīmu</string>
     <string name="lock_screen_open">Ieslēgts</string>
     <string name="lock_screen_close">Izslēgts</string>
-    <string name="vibration">vibrācija</string>
+    <string name="vibration">Vibrācija</string>
     <string name="ring_vibration">Zvana atgādinājuma vibrācija</string>
     <string name="natification_vibration">Jauna paziņojumu vibrācija</string>
     <string name="alarm_vibration">Laika atgādinājuma vibrācija</string>
     <string name="timing_reminder_ring">Trauksmes signāls</string>
     <string name="navigation_combination">Vietas noteikšanas pakalpojums</string>
-    <string name="reboot_to_mcu">atsāknēšana uz MCU</string>
+    <string name="reboot_to_mcu">Atsāknēšana uz MCU</string>
     <string name="everest2_copy_mcu_res">Kopēt fontu bibliotēku</string>
     <string name="agps_sync_remind">AGPS atgādinājums</string>
     <string name="agps_sync_off">Izslēgts</string>
@@ -388,7 +388,7 @@
     <string name="license">Juridisks paziņojums</string>
     <string name="regulatory">Normatīvs</string>
     <string name="regulatory_summary">Uzziniet vairāk</string>
-    <string name="unlock">atbloķēt</string>
+    <string name="unlock">Atbloķēts</string>
     <string name="build_time">[DEBUG] Veidot laiku</string>
     <string name="build_desc">[DEBUG] Veidot aprakstu</string>
     <string name="legal">Lūdzu, pārbaudiet</string>
