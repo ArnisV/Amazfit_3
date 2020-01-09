@@ -128,6 +128,24 @@
         <item>Smilšu vētra</item>
         <item>Stipra smilšu vētra</item>
         <item>Nav informācijas</item>
+        <item>Stipra līdz ļoti stipra vētra</item>
+        <item>Neliels vai mērens sniegs</item>
+        <item>Mērens vai stiprs sniegs</item>
+        <item>Stiprs sniegs, lai puteņotu</item>
+        <item>Putekļi</item>
+        <item>Pūš smiltis</item>
+        <item>Spēcīga smilšu vētra</item>
+        <item>Bieza migla</item>
+        <item>Sniegs</item>
+        <item>Lietus</item>
+        <item>Bieza migla</item>
+        <item>Dūmaka</item>
+        <item>Neliela dūmaka</item>
+        <item>Bieza dūmaka</item>
+        <item>Blīva dūmaka</item>
+        <item>Ļoti blīva dūmaka</item>
+        <item>Īpaši blīva dūmaka</item>
+        <item>Nav datu</item>
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>
