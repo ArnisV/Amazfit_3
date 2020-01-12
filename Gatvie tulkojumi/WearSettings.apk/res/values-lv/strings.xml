@@ -204,7 +204,7 @@
     <string name="alarm_buzzer">Buzzer</string>
     <string name="alarm_orbit">Orbit</string>
     <string name="alarm_rooster">Rooster</string>
-    <string name="alarm_timer">Timer</string>
+    <string name="alarm_timer">Taimeris</string>
     <string name="alarm_nudge">Nudge</string>
     <string name="alarm_rise">Rise</string>
     <string name="alarm_drip">Piliens</string>
@@ -238,8 +238,8 @@
     <string name="long_sit">Sēdēšanas brīdinājums</string>
     <string name="datacenter">Dienas pārskats</string>
     <string name="security">Drošība</string>
-    <string name="preference">Izvēĺne</string>
-    <string name="preference_title">Izvēĺne</string>
+    <string name="preference">Izvēlne</string>
+    <string name="preference_title">Izvēlne</string>
     <string name="light_change">Spilgtums</string>
     <string name="wrist_up">Plaukstas locītavas pacelšana</string>
     <string name="double_click_wakeup">Veiciet dubultskārienu, lai atbloķētu</string>
@@ -301,7 +301,7 @@
     <string name="lock_screen_auto">Regulāri izslēdziet vājā apgaismojuma režīmu</string>
     <string name="lock_screen_open">Ieslēgts</string>
     <string name="lock_screen_close">Izslēgts</string>
-    <string name="vibration">Vibrācija</string>
+    <string name="vibration">Vibro</string>
     <string name="ring_vibration">Zvana atgādinājuma vibrācija</string>
     <string name="natification_vibration">Jauna paziņojumu vibrācija</string>
     <string name="alarm_vibration">Laika atgādinājuma vibrācija</string>
@@ -570,7 +570,7 @@ visi pulksteņa dati tiks izdzēsti, un pulkstenis tiks atvienots no jūsu mobil
     <string name="date">Datums</string>
     <string name="time">Laiks</string>
     <string name="date_ymd">Datums(Y/M/D)</string>
-    <string name="time_hms">Time(H/M/S)</string>
+    <string name="time_hms">Laiks(H/M/S)</string>
     <string name="time_format">Laika formāts</string>
     <string name="hour_system">%s-sundu sistēma</string>
     <string name="am">AM</string>
@@ -583,7 +583,7 @@ visi pulksteņa dati tiks izdzēsti, un pulkstenis tiks atvienots no jūsu mobil
     <string name="sync_sport_data_before_reboot_dont_reboot">Nē</string>
     <string name="sync_sport_data_before_reboot_reboot_now">Jā</string>
     <string name="unit_metric">Metrika</string>
-    <string name="unit_english">Imperial</string>
+    <string name="unit_english">Imperiālā</string>
     <string name="strong">Spēcīgs</string>
     <string name="mid">vidējs</string>
     <string name="weak">Vājš</string>

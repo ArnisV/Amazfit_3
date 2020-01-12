@@ -1,31 +1,31 @@
 hm language res :zh-cn   Ver:20191124_18_44 start
-M
+P
+O
 T
-W
-T
-F
+C
+P
+Se
 S
-S
-Once
-Every day
-Not set
-Edit alarm
-Alarm
-Add alarm
-Edit time
-Repeat
-Alarms
+Vienu reizi
+Katru dienu
+Nav iestatīts
+Lab. Modinātāju
+Modinātājs
+Lab. modinātāju
+Labot laiku
+Atkārtot
+Modinātāji
 AM
 PM
-Repeat
-Mon
-Tue
-Wed
-Thu
-Piekt
-Sat
-Sun
-Snooze
+Atkārtot
+Pirmd.
+Otrd.
+Trešd.
+Ceturtd.
+Piektd.
+Sestd.
+Svētd.
+Atlikt
 Next alarm
 Alipay
 Alipay Pairing
@@ -110,7 +110,7 @@ Strong
 Incoming Call vibration
 Notification vibration
 Timer vibration
-Spilgtums: Off
+Spilgtums: Izsl.
 Spilgtums: 1
 Spilgtums: 2
 Spilgtums: 3
