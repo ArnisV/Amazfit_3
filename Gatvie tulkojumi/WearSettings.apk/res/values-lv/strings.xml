@@ -238,8 +238,8 @@
     <string name="long_sit">Sēdēšanas brīdinājums</string>
     <string name="datacenter">Dienas pārskats</string>
     <string name="security">Drošība</string>
-    <string name="preference">Izvēĺe</string>
-    <string name="preference_title">Izvēĺe</string>
+    <string name="preference">Izvēĺne</string>
+    <string name="preference_title">Izvēĺne</string>
     <string name="light_change">Spilgtums</string>
     <string name="wrist_up">Plaukstas locītavas pacelšana</string>
     <string name="double_click_wakeup">Veiciet dubultskārienu, lai atbloķētu</string>
@@ -251,10 +251,10 @@
     <string name="personal_info">Personiskā informācija</string>
     <string name="time_zone_clock">Laika iestatījumi</string>
     <string name="setting_time_format">Laika formāts</string>
-    <string name="connect">Savienojums</string>
+    <string name="connect">Savienojumi</string>
     <string name="common">Vispārīgi</string>
     <string name="device">Ierīce</string>
-    <string name="units_set">vienības iestatīšana</string>
+    <string name="units_set">Vienību iest.</string>
     <string name="auto_airplane">Plānots</string>
     <string name="wifi_upload">Dati</string>
     <string name="wifi_upload_title">Datu sinhronizācija</string>
@@ -488,7 +488,7 @@ un atrodas blakus"</string>
 %1$s?"</string>
     <string name="gender">Dzimums</string>
     <string name="birth_year">Dzimšanas gads</string>
-    <string name="height">Augstums</string>
+    <string name="height">Augums</string>
     <string name="weight">Svars</string>
     <string name="male">Vīrietis</string>
     <string name="female">Sieviete</string>
@@ -610,8 +610,8 @@ visi pulksteņa dati tiks izdzēsti, un pulkstenis tiks atvienots no jūsu mobil
     <string name="blt_hint_disconnect_device">Atvienot</string>
     <string name="lab_desc">Savāc daļu atkļūdošanas rīku</string>
     <string name="unknown">Nezināma ierīce</string>
-    <string name="bind_tips_title">"Lūdzu, saistiet
- lai drošāk aizsargātu savus datus. "</string>
+    <string name="bind_tips_title">Lūdzu, saistiet
+ lai drošāk aizsargātu savus datus.</string>
     <string name="upgrade_checking">Notikumu pārbaude ...</string>
     <string name="left_hand">Kreisā</string>
     <string name="right_hand">Labā</string>
