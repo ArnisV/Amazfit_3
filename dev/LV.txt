@@ -1,0 +1,516 @@
+hm language res :zh-cn   Ver:20191124_18_44 start
+M
+T
+W
+T
+F
+S
+S
+Once
+Every day
+Not set
+Edit alarm
+Alarm
+Add alarm
+Edit time
+Repeat
+Alarms
+AM
+PM
+Repeat
+Mon
+Tue
+Wed
+Thu
+Piekt
+Sat
+Sun
+Snooze
+Next alarm
+Alipay
+Alipay Pairing
+After Alipay pair, you can scan the PayCode on your watch for payment.
+Please open Alipay on your phone and view the service agreement on the smart watch page.
+Agree to the agreement
+Scan QR code to pair
+Paired successfully
+Pairing failed
+Please put your watch close to your phone
+Retry
+Please close Flight Mode to continue pairing
+Close
+Pairing timeout, please put your watch close to your phone
+Start pairing
+Click to switch to QR code
+Click to switch to barcode
+After unpair, you will not be able to use Alipay on your watch.
+Unpair
+Return
+h/m
+Veselba
+Stairs Climbed
+Stavi
+(Unit: h)
+Soli
+Climbed
+Sedentary
+Times
+Sitting for 1 hour in a row will be counted as a sedentary experience.
+BPM
+HR measure Off
+Loading
+No data
+(Unit: min)
+Pulss
+Avg. HR
+Resting HR
+Max.
+Min.
+Mera...
+Failed to measure
+Remeasure
+Pulss
+Warm-up
+Fat Burning
+Aerobic
+Anaerobic
+Anaerobic limit
+Card loading... Please wait.
+Bus card
+Access card
+Bank card
+Approach the card reader to pay
+You can open a bus card or access card in the Amazfit app.
+Balance: %.02f yuan
+Loading cards…
+Default card
+No more cards
+No notification
+Don't remind me again
+Delete
+Empty
+Unread
+Settings
+On
+Settings
+General
+Preferences
+Device
+Time format
+DND mode
+Scheduled
+Vibration
+Spilgtums
+12-stundas
+24-stundas
+Strength
+Weak
+Moderate 
+Strong
+Incoming Call vibration
+Notification vibration
+Timer vibration
+Spilgtums: Off
+Spilgtums: 1
+Spilgtums: 2
+Spilgtums: 3
+Spilgtums: 4
+Spilgtums: 5
+Spilgtums: 6
+Wake screen on wrist raise
+Power Off
+Restart
+Enter Smart Mode
+Airplane Mode 
+Scheduled
+Mobile Anti-Lost
+Double tap to unlock
+Orientation
+Hotkey
+Data sync
+Manual sync
+Auto sync
+About
+Name
+Model
+Edition (developer)
+Version
+Serial No.
+Total capacity
+Capacity available
+Weather
+Staying connected to Amazfit app will keep the weather up to date.
+AQI
+Suitable for exercises
+Not suitable for exercises
+Today
+Ignore
+Hang up
+DND: On
+DND: Off
+Airplane Mode: On
+Airplane Mode: Off
+Low battery of less than %d%%. Please charge asap.
+OK
+Cancel
+Restart?
+Power Off?
+restart to enter the Smart Mode
+Sedentary reminder
+You are sitting too long. Stand up and exercise for a minute.
+DIS_SEDENTARY_REMIND_NOTIF
+Steps goal achieved
+You've taken
+steps, and you have reached the activity goal today.
+DIS_ACHIEVE_REMIND_NOTIF
+Weather
+Temperature
+DIS_EVERYDAY_WATHER_REMIND_NOTIF
+Calorie consumption has reached the goal
+You've burned
+calories. Great! You have reached the consumption goal today.
+DIS_CALORIE_REMIND_NOTIF
+Low battery
+Low battery of %d%% remaining. Please charge asap.
+DIS_LOW_POWER_NOTIF
+Not connected
+Disconnected from the phone.
+DIS_CONN_LOST_NOTIF
+Watch found
+Your watch has been found by the Amazfit App.
+Select activity
+Ourdoor Run
+Pool Swim
+Trail Run
+Searching for GPS
+GPS found
+Activity setting
+Control\Alert\Color
+Data control
+Activity Alerts
+Screen color
+Battery Mode
+Pool length
+Auto pause
+Auto lap
+Alert per km
+Safety HR
+HR range Alert
+Auto lap Alert
+Pace Alert
+Accurate
+Proportional
+Power saving
+Customize
+Max HR range
+Reserved HR range
+Speed (m/s)
+Off
+Pace (min: sec/km)
+At rest
+Auto lap (km)
+HR (bpm)
+(Safety HR)
+Off
+Background color
+Black
+White
+GPS location failure
+GPS location failure. Please try again in open space.
+OK
+Time
+Distance
+Pace
+Avg. pace
+Stride freq.
+Avg. stride freq.
+Lap pace
+Lap distance
+km
+Exercise paused
+Pause time
+Distance (km)
+Resume
+Save
+Distance (100)
+Start swimming
+
+VO2max
+ml/kg/min
+Full recovery time
+Hours
+Before full recovery, please do some recovery training to alleviate the physical injury. 
+Training Effect (TE)
+Activities
+No exercise record yet. Start exercising now!!
+Total distance
+Total duration
+Avg. stride
+Avg. speed
+Burns
+Avg. HR
+Max HR
+Run
+More
+Delete record
+History
+Distance
+Times
+This exercise has no effect for the improvement of your aerobic performance.
+This intensity is helpful for improving your endurance and is also suitable as a recovery training after exercising.
+It is helpful to maintain aerobic performance.
+It has significant help in the improvement of aerobic performance.
+Cardiopulmonary capacity and aerobic performance can be effectively improved.
+Non-professional players should do enough recovery training after exercising.
+Cards
+Exercise
+/km
+cm
+spm
+km/h
+kcal
+Altitude
+meter
+Main stroke
+Total climbing
+Total ascent
+Total descent
+Backstroke
+Breaststroke
+Butterfly stroke
+Freestyle
+Total laps
+This exercise record is not recoverable once it is deleted. Do you want to delete it?
+Customize 
+Zone 1
+Zone 2
+Zone 3
+Zone 4
+Zone 5
+Hike
+Activity actions
+Pause
+Discard
+Discard ?
+The distance is too short to save. end anyway?
+Ja
+ne
+On
+Above
+Result
+No data 
+Check more in Amazfit App.
+From
+To
+Scheduled
+bpm alert
+GPS available
+Beyond safety HR
+Manual lap
+Last km duration
+Pace too low
+Very poor
+Poor
+Fair
+Average
+Good
+Great
+Excellent
+Lap time
+HR too low
+HR too high
+Unsynced exercise records found
+Unsynchronized records cannot be viewed on your mobile. You are recommended to sync the records before switching modes. Open the Amazfit app and pull down to sync. Continue to switch?
+Unsynced exercise records found
+Unsynchronized records cannot be viewed on your mobile. You are recommended to sync the records before powering it Off. Open the Amazfit app and pull down to sync. Continue to power it OFF?
+Sunny
+Cloudy
+Overcast
+Shower
+Thundershower
+Hail
+Sleet
+Light rain
+Moderate rain
+Heavy rain
+Rainstorm
+Heavy rainstorm
+Extraordinary rainstorm
+Snow shower
+Light snow
+Moderate snow
+Heavy snow
+Snowstorm
+Fog
+Freezing rain
+Sandstorm
+Small to moderate rain
+Moderate to heavy rain
+Heavy rain to rainstorm
+Rainstorm to heavy rainstorm
+Heavy to severe storm
+Small to moderate snow
+Moderate to heavy snow
+Heavy snow to snowstorm
+Dust
+Sand blowing
+Strong sandstorm
+Dense fog
+Snow
+Rain
+Strong fog
+Haze
+Moderate haze
+Heavy haze
+Severe haze
+Heavy fog
+Extremely dense fog 
+No data
+to
+Iesana
+Steps
+Good
+Moderate
+Lightly polluted
+Moderately polluted
+Heavily polluted
+Severely polluted
+Outdoor cycle
+Speed
+Speed too slow
+Speed Alert
+Speed (km/h)
+Power\Control\Reminder\Color
+per
+GPS interval
+Touch screen
+Follow system settings
+sec
+Data interval
+Training load
+Performance prediction
+Half marathon
+Full marathon
+Personal record
+Max distance
+Max time
+Half marathon
+Full marathon
+Max climb
+Maximum altitude
+Max total ascent
+Max total descent
+Max total climb
+We'll evaluate your training load from exercises recorded in the past 7 days
+Insufficient exercise intensity
+Good exercise intensity
+Too much exercise. Please avoid excessive exercise.
+Attention! Excessive exercise!
+Exercise state
+Min heart rate
+No enough space left. If you continue exercising, the system will automatically end the exercise and save the records once there isn't enough space. Please sync with the app asap, or delete some exercise records.
+Continue
+There isn't enough space. The exercise has been ended, and the exercise records have been saved. Please sync with the app or continue after deleting some exercise records.
+Remaining space
+Unsynchronized exercise records:
+pieces
+Please sync with the app asap, or delete some exercise records.
+Last %d km time
+Last 7 days
+Timer
+minute
+Timer done
+Prev.
+Power saving mode will greatly prolong the time of sport record, but it will reduce the accuracy of data record, and disable km segmentation, automatic segmentation and automatic suspension functions as well. Are you sure?
+GPS interval of 60 seconds will greatly prolong the time of sport record, but it will reduce the accuracy of data record, and disable 1 km segmentation, automatic segmentation, automatic pause functions as well. Are you sure?
+Time for last %d mi
+Time for last mi
+mi
+Distance (mi)
+Pace(m:s/mi)
+Auto laps (mi)
+Lap alert
+Speed (mph)
+ft
+mi
+/mi
+in
+mph
+Alarm full
+It can hold up to 10 alarms.
+It is unable to predict it now. You have to wear the watch and run more than 3%s, and your heart rate value is required to reach 75%% of the maximum.
+Fastest
+Wrist-raising screen on: enabled
+Wrist-raising screen on: disabled
+Indoor running
+Recalibrate
+1. To calibrate the distance result of a running session (must be longer than 0.5 km) helps the watch to generate a more accurate result.
+2. If you still aren't satisfied with the result after several calibration attempts, try to calibrate again.
+3. If you calibrate the result again, all previous calibration records will be deleted.
+Confirm
+Control\Reminder\Color\Calibration
+Recalibration succeeded
+Control\Reminder\Lane\Color
+Start indoor running
+Start pool swimming
+Lane length
+To prevent accidental touch, screen will be locked.
+25 meters
+50 meters
+25 yards
+50 yards
+yards
+Calibrate and save
+Calibration (km)
+Laps
+Avg SPM
+Auto laps (m)
+Auto laps (yd)
+Distance
+%d meters duration
+%d yards duration
+Calibration (miles)
+Auto lap distance has been changed
+Auto lap distance has been set as the pool length. If you want to reset it, go to activity settings.
+New personal record
+Huami Lab
+HR Monitor
+Bluetooth broadcast
+
+
+Bluetooth MAC
+Sessions
+Avg DPS
+SWOLF
+(%1$s)
+Max stroke rate
+laps (%1$d/lap)
+/100 m
+/100 yd
+Distance
+Notification
+Indoor cycling
+Elliptical
+Climbing
+Min Altitude
+Reminder\Color
+Start indoor cycling
+Start elliptical workout
+Sound again in %d min
+You've missed the alarm at %d:%02d
+Laps
+Total downhill mileage
+Max drop
+Total drop
+Max speed
+Avg moving speed
+Skiing
+Swim in the open water
+Distance unit
+Downhill dist
+Control\Reminder\Color\Unit
+Total downhill
+Descent
+GPS interval of 5 secs will slightly extend the recording duration of sport, but the accuracy of data recording will be reduced. Also, the auto pause function cannot be used.
+Balanced mode will slightly extend the recording duration of sport, but the accuracy of data recording will be reduced. Also, the auto pause function cannot be used.
+
