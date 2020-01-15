@@ -23,13 +23,13 @@
         <item>Katru dienu</item>
         <item>Darbdienās</item>
         <item>Brīvdienās</item>
-        <item>P</item>
-        <item>O</item>
-        <item>T</item>
-        <item>C</item>
-        <item>Pk</item>
-        <item>S</item>
-        <item>Sv</item>
+        <item>Pirmd.</item>
+        <item>Otrd</item>
+        <item>Trešd.</item>
+        <item>Ceturtd.</item>
+        <item>Piektd.</item>
+        <item>Ssestd.</item>
+        <item>Svētd.</item>
     </string-array>
     <string-array name="short_week_days">
         <item></item>
