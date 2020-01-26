@@ -23,8 +23,8 @@
     <string name="on_foot">Ar kājām</string>
     <string name="indoor_fitness">Fitness</string>
     <string name="row_machine">Airēšanas trenažieris</string>
-    <string name="indoor_walking">室内步行</string>
-    <string name="mountain_biking">山地骑行</string>
+    <string name="indoor_walking">Iešana iekštelpās</string>
+    <string name="mountain_biking">Kalnu riteņbaukšana</string>
     <string name="cycling_bmx">BMX</string>
     <string name="high_intensity_interval_training">Augstas intensitātes intervāla Treniņš</string>
     <string name="core_training">Pamattreniņš</string>

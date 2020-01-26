@@ -69,5 +69,7 @@
         <item>Kopējais laiks</item>
         <item>Atlikušais laiks</item>
         <item>Attālums</item>
+        <item>Atpūties</item>
+        <item>Atlicis</item>
     </string-array>
 </resources>

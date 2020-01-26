@@ -9,7 +9,7 @@ S
 Vienu reizi
 Katru dienu
 Nav iestatīts
-Lab. Modinātāju
+Lab. modinātāju
 Modinātājs
 Lab. modinātāju
 Labot laiku
@@ -26,17 +26,17 @@ Piektd.
 Sestd.
 Svētd.
 Atlikt
-Next alarm
+Nākamais modinātājs
 Alipay
-Alipay Pairing
+Alipay Pārošana
 After Alipay pair, you can scan the PayCode on your watch for payment.
 Please open Alipay on your phone and view the service agreement on the smart watch page.
-Agree to the agreement
-Scan QR code to pair
-Paired successfully
-Pairing failed
-Please put your watch close to your phone
-Retry
+Piekrist līgumam
+Skanē QR kodu, lai sapārotu
+Veiksmīgi sapārots
+Pārošana neizdevās
+Ruri pulksteni telefona tuvumā
+Atkārtot
 Please close Flight Mode to continue pairing
 Close
 Pairing timeout, please put your watch close to your phone
