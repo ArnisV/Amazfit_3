@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="day">
+        <item quantity="other">dienas</item>
+        <item quantity="zero">diena</item>
+        <item quantity="one">diena</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">stundas</item>
+        <item quantity="zero">stunda</item>
+        <item quantity="one">stunda</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">minūtes</item>
+        <item quantity="zero">minūte</item>
+        <item quantity="one">minūte</item>
+    </plurals>
+</resources>

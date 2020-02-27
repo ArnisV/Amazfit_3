@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="densities">
+        <item>Normāls</item>
+        <item>Zems</item>
+        <item>Augsts</item>
+        <item>Nezināms</item>
+    </string-array>
+    <string-array name="fontSizes">
+        <item>Mazs</item>
+        <item>Normāls</item>
+        <item>Liels</item>
+        <item>Milzīgs</item>
+    </string-array>
+    <string-array name="inverted">
+        <item>Nē</item>
+        <item>Jā</item>
+    </string-array>
+</resources>
