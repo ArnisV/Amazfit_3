@@ -305,6 +305,25 @@
     <string name="heartrate_measure_off">Pulsa mērīšana izslēgta</string>
     <string name="no_data_title">Mērījumu rezultāts</string>
     <string name="no_data_content">Mērīšanas rezultāta nav</string>
+    <string name="widget_pressure_title">Nepārteaukts stress</string>
+    <string name="widget_pressure_title_in_applist">Stress</string>
+    <string name="widget_pressure_single_pressure_measure">"Mērīšana
+Lūdzu, palieciet mierīgi"</string>
+    <string name="pressure_detail_title">Stresa informācija</string>
+    <string name="pressure_detail_low">Zems</string>
+    <string name="pressure_detail_middle">Vidējs</string>
+    <string name="pressure_detail_high">Augsts</string>
+    <string name="pressure_detail_highest">maksimāls</string>
+    <string name="pressure_detail_lowest">Minimāls</string>
+    <string name="pressure_detail_range">Stresa diapazons</string>
+    <string name="pressure_detail_range_0">Bez stresa 0-39</string>
+    <string name="pressure_detail_range_1">Normāls Stress 40-59</string>
+    <string name="pressure_detail_range_2">Vidējs Stress 60-79</string>
+    <string name="pressure_detail_range_3">Augsts Stress 80-89</string>
+    <string name="pressure_detail_range_4">Ļoti augsts Stress 90-100</string>
+    <string name="pressure_detail_recent_seven_days_title">Stress pēdējās septiņās dienās</string>
+    <string name="pressure_tips_title">Stresa indikātors</string>
+    <string name="pressure_tips_content">Stresa indikatoru aprēķina pēc pulsa ātruma mainīgās vērtības, un to izmanto, lai novērtētu fiziskā stāvokļa izmaiņas (indikators ir paredzēts tikai atsaucei). Parasti, kad spiediens ir augsts, jums vajadzētu pienācīgi atpūsties.</string>
     <string name="average_text">Vid.</string>
     <string name="running">Skriešana</string>
     <string name="waking">Iešana</string>
